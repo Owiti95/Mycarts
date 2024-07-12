@@ -48,4 +48,4 @@ To enhance or contribute on the existing project, follow these steps:
 - Create a Pull Request
   
 ## live link
-https://owiti95.github.io/myCart/
+https://github.com/Owiti95/mycarts.git
